@@ -1,0 +1,48 @@
+﻿  2048.cpp
+D:\Code\GitHub\2048\2048\2048.cpp(130,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(131,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(133,16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(146,11): error C2664: “HWND CreateDialogParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)”: 无法将参数 4 从“BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)”转换为“DLGPROC”
+D:\Code\GitHub\2048\2048\2048.cpp(146,11): message : 在匹配目标类型的范围内没有具有该名称的函数
+D:\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(4998,1): message : 参见“CreateDialogParamW”的声明
+D:\Code\GitHub\2048\2048\2048.cpp(146,11): message : 尝试匹配参数列表“(HINSTANCE, LPWSTR, HWND, overloaded-function, long)”时
+D:\Code\GitHub\2048\2048\2048.cpp(239,29): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(243,36): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(247,43): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(252,50): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(256,57): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(258,64): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(311,124): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(311,103): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(321,24): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(643,71): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(645,36): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(691,149): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(691,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(694,49): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(695,47): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(696,50): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(697,50): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(700,146): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(700,63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(704,48): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(705,47): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(706,48): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(707,47): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(708,47): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(709,45): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(710,48): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(711,48): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(713,79): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(713,58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(714,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(714,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(716,170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(716,85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(716,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(717,170): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(717,84): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(717,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(719,40): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(724,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Code\GitHub\2048\2048\2048.cpp(745,59): warning C4244: “参数”: 从“WPARAM”转换到“UINT”，可能丢失数据
